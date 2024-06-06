@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/wow/static/css/main.5129b42b.css",
+    "main.js": "/wow/static/js/main.14ebb2c8.js",
+    "index.html": "/wow/index.html",
+    "main.5129b42b.css.map": "/wow/static/css/main.5129b42b.css.map",
+    "main.14ebb2c8.js.map": "/wow/static/js/main.14ebb2c8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5129b42b.css",
+    "static/js/main.14ebb2c8.js"
+  ]
+}
